@@ -1,0 +1,47 @@
+# Data Preprocessing
+pandas==2.1.0
+numpy==1.24.5
+
+# Sentiment Analysis
+nltk==3.8.1
+transformers==4.33.0
+torch==2.0.1
+
+# Hybrid Forecasting
+fbprophet==0.7.1
+scikit-learn==1.2.2
+tensorflow==2.13.0
+
+# Graph Neural Networks (GNN)
+torch-geometric==2.3.1
+torch-scatter==2.1.0
+torch-sparse==0.6.15
+
+# Self-Reinforcement Learning
+gym==0.26.2
+stable-baselines3==2.10.0
+
+# Federated Learning
+pytorch-federated-learning==0.0.4
+
+# Neuro-Symbolic AI for Reasoning
+sympy==1.12
+pyknow==1.1.0
+
+# NLP for Localized Farmer Support
+langdetect==1.0.9
+gTTS==2.2.4
+
+# User Interface & Reporting
+flask==2.5.2
+dash==2.9.0
+plotly==5.14.1
+
+# Continuous Learning & Adaptation
+joblib==1.3.2
+
+# Additional Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+
